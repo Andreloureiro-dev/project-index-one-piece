@@ -1,32 +1,32 @@
-# Projeto One Piece
+# One Piece Project
 
-Este projeto é uma página web interativa inspirada no universo do anime One Piece. O objetivo é apresentar os principais personagens da série de forma dinâmica e visualmente atraente, proporcionando uma experiência envolvente para fãs e visitantes.
+This project is an interactive web page inspired by the universe of the anime One Piece. The goal is to showcase the main characters of the series in a dynamic and visually appealing way, providing an engaging experience for fans and visitors.
 
-## Funcionalidades
+## Features
 
-- Visualização dos personagens principais da tripulação, com imagens e descrições.
-- Navegação intuitiva por meio de botões, permitindo alternar entre os personagens.
-- Layout responsivo, adaptando-se a diferentes tamanhos de tela (desktop e mobile).
-- Design moderno, com efeitos visuais e uso de imagens temáticas do anime.
+- View the main crew members, with images and descriptions.
+- Intuitive navigation through buttons, allowing users to switch between characters.
+- Responsive layout, adapting to different screen sizes (desktop and mobile).
+- Modern design, with visual effects and themed images from the anime.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML5**: Estrutura da página.
-- **CSS3**: Estilização, responsividade e reset de estilos.
-- **JavaScript**: Interatividade para seleção dos personagens.
-- **Imagens**: Assets dos personagens e logo do One Piece.
+- **HTML5**: Page structure.
+- **CSS3**: Styling, responsiveness, and style reset.
+- **JavaScript**: Interactivity for character selection.
+- **Images**: Assets of the characters and One Piece logo.
 
-## Estrutura de Pastas
+## Folder Structure
 
-- `src/css`: Arquivos de estilos (reset, responsivo e principal).
-- `src/js`: Script principal para interatividade.
-- `src/imagens`: Imagens dos personagens e logo.
-- `index.html`: Página principal do projeto.
+- `src/css`: Style files (reset, responsive, and main styles).
+- `src/js`: Main script for interactivity.
+- `src/imagens`: Images of the characters and logo.
+- `index.html`: Main page of the project.
 
-## Como usar
+## How to Use
 
-Basta abrir o arquivo `index.html` no navegador. Não é necessário nenhum servidor ou configuração adicional.
+Just open the `index.html` file in your browser. No server or additional configuration is required.
 
-## Objetivo
+## Purpose
 
-Este projeto foi desenvolvido para praticar habilidades de desenvolvimento web, organização de código e criação de interfaces interativas.
+This project was developed to practice web development skills, code organization, and the creation of interactive interfaces, as well as to serve as a personal portfolio.
